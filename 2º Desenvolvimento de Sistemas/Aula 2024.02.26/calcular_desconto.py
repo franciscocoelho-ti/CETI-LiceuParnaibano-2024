@@ -13,3 +13,4 @@ valor_pagar = valor_venda - valor_desconto
 # Informações de saída
 print('O valor a pagar será, ', valor_pagar)
 
+
