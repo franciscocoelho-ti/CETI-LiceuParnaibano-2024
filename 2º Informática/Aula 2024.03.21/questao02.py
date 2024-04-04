@@ -12,3 +12,4 @@ elif valor2 <= valor1 and valor2 <= valor3:
     print('O menor valor digitado foi', valor2)
 else:
     print('O menor valor digitado foi', valor3)
+
