@@ -12,4 +12,3 @@ for numero in range(1, n + 1):
 
 print('A soma dos pares foi: ', soma_pares)
 
-
